@@ -241,4 +241,16 @@ body{
   width: 600px;
 }
 
+.container{
+  width: 600px;
+}
+
+#pro_pic{
+  width: 100%;
+}
+
+#pro_para{
+  width: 100%;
+}
+
 }
