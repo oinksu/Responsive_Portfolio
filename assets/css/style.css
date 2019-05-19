@@ -13,6 +13,7 @@ body {
 /* general */
 
 .container {
+  background-attachment: rgb(235, 204, 192);
   width: 100%;
   max-width: 960px;
   margin: 0 auto;
@@ -75,6 +76,14 @@ h3 {
   text-align: center;
   text-decoration: none;
   background: #77859e;
+}
+
+#pro_pic{
+  width: 30%;
+}
+
+#pro_para{
+  width: 70%;
 }
 
 nav {
@@ -218,6 +227,7 @@ input[type=submit] {
 
 .wrapper {
   width: 960px;
+  background-color: rgb(235, 204, 192);
 
 }
 
