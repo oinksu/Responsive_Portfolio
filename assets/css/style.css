@@ -162,20 +162,22 @@ h3, h2 {
   width: 100%;
   border: 0 none;
   opacity: 0.8;
+  border-radius: 20%;
 }
 
 .work h3 {
   position: absolute;
   bottom: 20px;
   width: 100%;
-  padding: 15px;
+  padding: 10px;
   margin-bottom: 0;
   font-weight: 300;
   line-height: 30px;
   color: #ffffff;
   text-align: center;
-  background: #5f79aa;
+  background: #5f79aa93;
   border-bottom: 0;
+  border-radius: 25%;
 }
 
 .auth-image {
