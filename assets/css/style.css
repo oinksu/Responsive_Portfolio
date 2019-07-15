@@ -154,8 +154,8 @@ p{
 }
 
 .work{
-  width: 25rem;
-  height: 25rem;
+  width: 20rem;
+  height: 20rem;
 }
 
 .portfolio{
@@ -164,8 +164,12 @@ p{
 }
 
 .box{
-  margin: 2rem 0 0 0;
+  margin: 4rem 45rem 1rem 0;
   padding: 0 0 0 0;
+  width: 50%;
+
+.centerbox{
+  size: 10%;
 }
 
 /* LARGE SCREENS */
