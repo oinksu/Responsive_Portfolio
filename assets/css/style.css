@@ -232,10 +232,17 @@ p{
 }
 
 h1{
+  margin: 0 2rem 0 0rem;
+  padding: 2px 0 0 0;
+  background: rgb(181, 218, 243);
+}
+
+.push{
   margin: 0 2rem 0 2rem;
   padding: 2px 0 0 0;
   background: rgb(181, 218, 243);
 }
+
 
 
 /*extra small sceens*/
