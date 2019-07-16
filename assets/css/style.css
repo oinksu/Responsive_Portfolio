@@ -167,9 +167,25 @@ p{
   margin: 4rem 45rem 1rem 0;
   padding: 0 0 0 0;
   width: 50%;
+}
 
-.centerbox{
-  size: 10%;
+.caption{
+  background: rgb(187, 230, 196)
+}
+
+.image{
+  background: rgb(185, 197, 130);
+  position:relative;
+  overflow:hidden;
+  padding-bottom:100%;
+}
+.image img{
+    position: absolute;
+    max-width: 100%;
+    max-height: 100%;
+    top: 50%;
+    left: 50%;
+    transform: translateX(-50%) translateY(-50%);
 }
 
 /* LARGE SCREENS */
@@ -212,6 +228,12 @@ p{
 .about{
   background: #485e74;
   margin-LEFT: 6.5rem;
+}
+
+h1{
+  margin: 0 2rem 0 2rem;
+  padding: 2px 0 0 0;
+  background: rgb(181, 218, 243);
 }
 
 
