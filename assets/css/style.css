@@ -5,6 +5,7 @@
 
 
 body{
+  align-content: space-around;
   background:#80b2e454;
   color:#81888d;
   line-height:1.6;
@@ -144,7 +145,7 @@ h3{
   
     background: rgb(211, 228, 212) !important;
     padding: 0 0 0 0  !important;
-    margin: 0 0 0 0  !important;
+    margin: 0 16px 0 16px  !important;
   
 }
 
@@ -189,6 +190,12 @@ p{
     transform: translateX(-50%) translateY(-50%);
 }
 
+.bigbox{
+  background:rgba(148, 158, 104, 0.733);
+  
+
+}
+
 /* LARGE SCREENS */
 @media(min-width:700px){
   .wrapper{
@@ -199,7 +206,7 @@ p{
   h3{
     background: rgb(211, 228, 212) !important;
     padding: 0 0 0 0  !important;
-    margin: 0 0 0 0  !important;
+    margin: 0 16px 0 16px  !important;
   }
 
   .leftbox{
